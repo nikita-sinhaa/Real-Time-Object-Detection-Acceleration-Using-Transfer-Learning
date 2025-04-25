@@ -1,0 +1,1 @@
+-- Placeholder testbench for bbox_filter.vhd
