@@ -1,0 +1,5 @@
+
+[Timing Diagram]
+CPU (Python) ----[Bounding Boxes + Conf Scores]----> FPGA (VHDL BBox Filter)
+                  [Valid Frame] -> [Valid Output]
+After FPGA filtering -> CPU draws boxes on frames
